@@ -1,0 +1,23 @@
+{
+  "name": "PV en Poche SN",
+  "short_name": "PV SN",
+  "description": "A comprehensive mobile guide for Pharmacovigilance professionals.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#008751",
+  "icons": [
+    {
+      "src": "arp.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "arp.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
